@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1684249257072,
-  "index": "/index.html",
+  "timestamp": 1684255651040,
+  "index": "C:/Program Files/Git/angular-test/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.6fcb2dfe7be40175.js",
-        "/manifest.webmanifest",
-        "/polyfills.a1ac96d023cab75e.js",
-        "/runtime.0ecabf6f212b1ce5.js",
-        "/styles.ef46db3751d8e999.css"
+        "C:/Program Files/Git/angular-test/favicon.ico",
+        "C:/Program Files/Git/angular-test/index.html",
+        "C:/Program Files/Git/angular-test/main.6fcb2dfe7be40175.js",
+        "C:/Program Files/Git/angular-test/manifest.webmanifest",
+        "C:/Program Files/Git/angular-test/polyfills.a1ac96d023cab75e.js",
+        "C:/Program Files/Git/angular-test/runtime.0ecabf6f212b1ce5.js",
+        "C:/Program Files/Git/angular-test/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "C:/Program Files/Git/angular-test/assets/icons/icon-128x128.png",
+        "C:/Program Files/Git/angular-test/assets/icons/icon-144x144.png",
+        "C:/Program Files/Git/angular-test/assets/icons/icon-152x152.png",
+        "C:/Program Files/Git/angular-test/assets/icons/icon-192x192.png",
+        "C:/Program Files/Git/angular-test/assets/icons/icon-384x384.png",
+        "C:/Program Files/Git/angular-test/assets/icons/icon-512x512.png",
+        "C:/Program Files/Git/angular-test/assets/icons/icon-72x72.png",
+        "C:/Program Files/Git/angular-test/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "8fd8e32a65e44a05f3ce69d907effe229574e5bb",
-    "/main.6fcb2dfe7be40175.js": "38dbb7327c18af4aeb88dfcd9eb6bc243a38758f",
-    "/manifest.webmanifest": "b6595cefd3538006f39788c4a56130406b8a79a3",
-    "/polyfills.a1ac96d023cab75e.js": "98c8255de474f2934298b664312c35a310fc5b58",
-    "/runtime.0ecabf6f212b1ce5.js": "7245ba27722633c318ec34bdeb0f7c2067e4e5d6",
-    "/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "C:/Program Files/Git/angular-test/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "C:/Program Files/Git/angular-test/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "C:/Program Files/Git/angular-test/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "C:/Program Files/Git/angular-test/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "C:/Program Files/Git/angular-test/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "C:/Program Files/Git/angular-test/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "C:/Program Files/Git/angular-test/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "C:/Program Files/Git/angular-test/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "C:/Program Files/Git/angular-test/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "C:/Program Files/Git/angular-test/index.html": "1a261fc516c2b48651abf5938f2e675012daba07",
+    "C:/Program Files/Git/angular-test/main.6fcb2dfe7be40175.js": "38dbb7327c18af4aeb88dfcd9eb6bc243a38758f",
+    "C:/Program Files/Git/angular-test/manifest.webmanifest": "b6595cefd3538006f39788c4a56130406b8a79a3",
+    "C:/Program Files/Git/angular-test/polyfills.a1ac96d023cab75e.js": "98c8255de474f2934298b664312c35a310fc5b58",
+    "C:/Program Files/Git/angular-test/runtime.0ecabf6f212b1ce5.js": "7245ba27722633c318ec34bdeb0f7c2067e4e5d6",
+    "C:/Program Files/Git/angular-test/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
